@@ -1,6 +1,6 @@
 # 💫 About Me:
 💻 As a web/front-end developer, I enjoy the process of creating websites;<br>🤩 I'm constantly looking for an interesting projects to work on;<br>🌱 I have a strong passion for improving my knowledge every day and sharing it with others;<br>🌎 Exploring nature through hiking and traveling brings me immense joy, as I relish the opportunity to meet new people and experience fresh emotions.<br>📚 Reading and watching movies are activities I thoroughly enjoy, as they expose me to new sensations and emotions.
-
+<img src="https://img.freepik.com/free-vector/freelance-remote-workers-flat-composition-with-domestic-scenery-woman-working-home-with-laptop_1284-59822.jpg?w=1060&t=st=1685276510~exp=1685277110~hmac=33e88ca9edc2091e71680c483c361eaa82230834c7f2de218ac3df9eafa2f685" alt="coding-girl" />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sultanovaanahit/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sultanova-anahit-8323a0a4/) 
